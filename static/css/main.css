@@ -1,0 +1,23 @@
+#logo{
+
+		}
+		body{
+			background-color: #D3D3D3;	
+
+		}
+		#total-orders{
+			background-color: #FF4500;	
+		}
+
+		#orders-delivered{
+			background-color: #FF4500;	
+		}
+
+		#orders-pending{
+			background-color: #FF4500;
+		}
+
+		#logo-image{
+			height:30%;
+			width: 30%;
+		}
